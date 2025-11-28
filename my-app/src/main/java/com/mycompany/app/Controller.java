@@ -4,9 +4,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class controller {
+public class Controller {
     private RequestScopeBean requestScopeBean;
-    public controller(RequestScopeBean requestScopeBean) {
+    public Controller(RequestScopeBean requestScopeBean) {
         this.requestScopeBean = requestScopeBean;
     }
     @GetMapping("/")
