@@ -1,6 +1,6 @@
 com\mycompany\app\PrototypeBean.class
 com\mycompany\app\App.class
-com\mycompany\app\controller.class
 com\mycompany\app\RequestScopeBean.class
 com\mycompany\app\SecondBean.class
+com\mycompany\app\Controller.class
 com\mycompany\app\FirstBean.class

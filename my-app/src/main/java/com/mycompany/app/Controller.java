@@ -20,6 +20,5 @@ public class Controller {
         b.append(requestScopeBean.toString());
         b.append("\n");
         return b.toString();
-
     }
 }
